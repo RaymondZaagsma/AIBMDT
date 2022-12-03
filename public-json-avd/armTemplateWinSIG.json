@@ -70,8 +70,8 @@
 						"type": "PowerShell",
 						"name": "GetArchive",
 						"inline": [
-						  "c:\\temp\\azcopy.exe copy '<Shared Access Signature to archive file>' c:\\temp\\software.zip",
-						  "Expand-Archive 'c:\\temp\\software.zip' c:\\temp"
+						  "c:\\temp\\azcopy.exe copy '<Shared Access Signature to archive file>' c:\\temp\\Deploymentshare.zip",
+						  "Expand-Archive 'c:\\temp\\software.zip' c:\\"
 						]
 					  },
 					{
