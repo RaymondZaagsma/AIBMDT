@@ -38,7 +38,7 @@
         
         "properties": {
             "buildTimeoutInMinutes" : 100,
-            "stagingResourceGroup": "/subscriptions/<subscriptionID>/resourceGroups/<rgNameDev>",
+            
 
             "vmProfile": 
                     {
