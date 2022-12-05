@@ -115,7 +115,7 @@
                     {
                         "type": "WindowsRestart",
                         "restartCheckCommand": "write-host 'restarting post BISF'",
-                        "restartTimeout": "5m"
+                        "restartTimeout": "10m"
                     }
 
             ],
