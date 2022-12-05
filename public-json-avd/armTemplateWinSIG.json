@@ -110,7 +110,7 @@
                         "runAsSystem": true,
                         "runElevated": true,
                         "name": "BIS-F",
-                        "scriptUri": "https://raw.githubusercontent.com/RaymondZaagsma/PinkAVDAIB/main/1_Creating_a_Custom_W10_Shared_Image_Gallery_Image/BISF.ps1"
+                        "scriptUri": "https://raw.githubusercontent.com/RaymondZaagsma/AIBMDT/main/public-powershell-avd/BISF.ps1"
                     },
                     {
                         "type": "WindowsRestart",
