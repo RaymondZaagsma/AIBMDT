@@ -94,7 +94,7 @@
                       {
                         "type": "WindowsRestart",
                         "restartCheckCommand": "write-host 'restarting post Apps Install'",
-                        "restartTimeout": "5m"
+                        "restartTimeout": "10m"
                     },   
                     {
                         "type": "WindowsUpdate",
